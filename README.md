@@ -1,2 +1,1 @@
-# Quantative-Finance-Demo
-Some experiment
+# Quantative-Finance
